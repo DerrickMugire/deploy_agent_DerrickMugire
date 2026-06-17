@@ -25,4 +25,5 @@ You will be prompted to enter a project suffix (e.g. v1).
 If the script is interrupted using Ctrl + C, the trap function will clean up and prevent incomplete folder structures.
 
 ## Author
-GitHub Username: DerrickMugire
+GitHub Username: DerrickMugire## Video Demonstration
+https://www.veed.io/view/d63883a7-c692-44e0-afc7-cc40616955e2?source=editor&panel=share
